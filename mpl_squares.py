@@ -14,7 +14,7 @@ ax.set_xlabel("Value", fontsize=14)
 ax.set_ylabel("Square of Value", fontsize=14)
 
 # Set size of tick labels.
-ax.tick_params(labelsize=14)
+#ax.tick_params(labelsize=14)
 
 # Set the range for each axis.
 ax.axis([0, 1100, 0, 1_100_000])
